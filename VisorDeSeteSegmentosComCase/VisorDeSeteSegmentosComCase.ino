@@ -117,8 +117,6 @@ void loop(){
 
 
 
-
-
 void NUMERO(bool a, bool b, bool c, bool d, bool e, bool f, bool g){
   
   digitalWrite(A, a);
